@@ -3,7 +3,7 @@
 This is a simple boilerplate for creating a Lit application that runs with webpack and scss.
 
 ### Important!
-Work in progress and some features are still missing
+Work in progress and some features are still pending
 
 
 ## Installation

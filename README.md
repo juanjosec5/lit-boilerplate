@@ -18,8 +18,6 @@ npm install
 
 ```python
 npm build--> generate dist/index.js and indes.html
-
-# returns 'words'
 npm start --> run server with browsersync
 ```
 
